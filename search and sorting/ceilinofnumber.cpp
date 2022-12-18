@@ -13,7 +13,7 @@ int binarySearch(vector<int> arr, int target){
       else
           h=m-1;
   }
-return arr[h];
+return arr[l];
 }
 int main(){
 
